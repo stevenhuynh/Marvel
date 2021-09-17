@@ -8,5 +8,8 @@ Just clone the repo or download it in zip-file, Open the project in Xcode then r
 
 ### Dependencies
 ### Screenshots
+![Characters list](https://github.com/stevenhuynh/Marvel/blob/main/Marvel/Screenshots/Simulator%20Screen%20Shot%20-%20iPhone%2012%20-%202021-09-17%20at%2010.52.13.png)
+![Character Details](https://github.com/stevenhuynh/Marvel/blob/main/Marvel/Screenshots/Simulator%20Screen%20Shot%20-%20iPhone%2012%20-%202021-09-17%20at%2010.52.19.png)
+
 ## Authors
 ## Version History
